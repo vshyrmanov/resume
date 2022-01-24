@@ -217,3 +217,17 @@ body {
   line-height: 24px;
   color: white;
 }
+
+.logo {
+  width: 20px !important;
+  height: 20px;
+  margin-right: 5px;
+}
+
+.contact_fields {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+
+.
